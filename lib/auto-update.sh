@@ -22,7 +22,7 @@ if [ -n "`git status dist -s`" ]; then
 		git add dist
 		git commit -m "${build_commit_message}"
 		git remote remove origin
-		git remote add origin "https://${GITHUB_TOKEN}@github.com/m59peacemaker/pine-alternative-me-fng.git" > /dev/null 2>&1
+		git remote add origin "https://${GITHUB_TOKEN}@github.com/interbiznw/pine-alternative-me-fng.git" > /dev/null 2>&1
 		git push --quiet origin master
 	fi
 else

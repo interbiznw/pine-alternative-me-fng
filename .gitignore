@@ -9,3 +9,4 @@ node_modules
 .reify-cache
 secrets
 .env
+/.vs
