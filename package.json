@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/m59peacemaker/pine-alternative-me-fng"
+    "url": "https://github.com/interbiznw/pine-alternative-me-fng"
   },
-  "bugs": "https://github.com/m59peacemaker/pine-alternative-me-fng/issues",
+  "bugs": "https://github.com/interbiznw/pine-alternative-me-fng/issues",
   "author": "Johnny Hauser <johnnyhauser@gmail.com>",
   "license": "CC0-1.0",
   "dependencies": {
